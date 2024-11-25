@@ -1,3 +1,5 @@
+# by Emre Kesici - 03.12.2023
+
 def prepareInfo(filename, file, selection):
     option = []                                         #for list of options that the customer will see
     next_code =[]                                       #for list that will identify the next connected options
