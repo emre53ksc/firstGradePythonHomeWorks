@@ -1,6 +1,8 @@
 # name : Emre Kesici
 # id : 300201041
 
+# this assignment was given on 10.11.2023 and was expected to be done using the most basic python units. 
+# no function defining was allowed. you can understand that this is not a real blackjack by looking at the assignment details, some rules vary.
 
 import random 
 from random import randint
