@@ -1,5 +1,5 @@
 # Student ID: 300201041
-# Emre Kesici
+# by Emre Kesici - 24.12.2023
 
 import os
 
