@@ -1,3 +1,5 @@
+# by Emre Kesici - 09.01.2024
+
 def init_tasks():
     return [
         {'id': 1, 'description': "Complete Project Proposal", 'assigned_to': "John Doe", "subtasks": [
